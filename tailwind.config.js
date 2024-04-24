@@ -5,8 +5,6 @@ export default {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
-    "    flowbite.content(),"
-   
 
   ],
   darkMode:"class",
@@ -15,6 +13,5 @@ export default {
     extend: {},
   },
   plugins: [require("daisyui"),
-  flowbite.plugin(),
-],
+]
 }
