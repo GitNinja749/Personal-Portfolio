@@ -4,11 +4,11 @@ import About from "./Components/About";
 import Contact from "./Components/Contact";
 import Skills from "./Components/Skills";
 import React, { useEffect } from 'react';
-import AOS from 'aos';
-import 'aos/dist/aos.css'; // Import AOS CSS
+// import AOS from 'aos';
+// import 'aos/dist/aos.css'; // Import AOS CSS
 
 
-AOS.init();
+// AOS.init();
 
 
 export default function App() {

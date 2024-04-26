@@ -6,16 +6,9 @@ const About = () => {
             <div>
             <div >
             <h1 className=' font-semibold text-lg text-center' 
-                  data-aos="fade-right"
-                  data-aos-anchor="#example-anchor"
-                  data-aos-offset="500"
-                  data-aos-duration="500">Who i am</h1>
+              >Who i am</h1>
             <h1 className='text-center font-semibold text-3xl md:text-5xl md:font-bold pb-5'
-            data-aos="fade-left"
-            data-aos-anchor="#example-anchor"
-            data-aos-offset="500"
-            data-aos-duration="500"
-            >About Me</h1>
+              >About Me</h1>
             </div>
             <div className=' flex justify-center items-center'>
             <p className='text-xl w-[300px] md:w-[400px] lg:w-[900px] leading-loose'>
